@@ -1,0 +1,10 @@
+a = float(input('enter value ='))
+b = float(input('enter value ='))
+print('sum of a,b is {}'.format(a+b))
+print('sub of a,b is {}'.format(round(a-b,1)))
+print('mul of a,b is {}'.format(a*b))
+print('div of a,b is {}'.format(a/b))
+print('floor div of a,b is {}'.format(a//b))
+print('mod of a,b is {}'.format(round(a%b,3)))
+print('exponen of a,b is {}'.format(round(a**b,3)))
+
